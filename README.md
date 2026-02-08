@@ -43,8 +43,11 @@ password-manager/
 
 ```bash
 git clone https://github.com/Fayyaz6137/Password_Manager.git
+
 cd password-manager
+
 pip install -r requirements.txt
+
 python main.py
 ```
 
